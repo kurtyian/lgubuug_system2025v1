@@ -1,0 +1,7 @@
+feat: Implement Department Management and Skydash Integration
+
+This commit introduces the following features:
+- Added department_head, email, contact_number, vision, and mission fields to the departments table.
+- Implemented DepartmentController with create, store, and index methods for department management.
+- Integrated department creation and viewing into the Skydash sidebar with nested navigation.
+- Applied Skydash styling to department creation and listing pages for a consistent UI.
